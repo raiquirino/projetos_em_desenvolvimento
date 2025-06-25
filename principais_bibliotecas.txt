@@ -1,0 +1,6 @@
+pip install pandas
+pip install pdfplumber
+pip install openpyxl
+pip install pypdf2
+pip install pyautogui
+pip install opencv-python
